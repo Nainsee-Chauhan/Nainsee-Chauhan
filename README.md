@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nainsee Chauhan.
-- 🌱 I’m currently learning web development and also Nueral Networks.
+- 🌱 I’m currently learning web development.
 - 📫 You can reach me through nainsee02@gmail.com
 
 <!---
